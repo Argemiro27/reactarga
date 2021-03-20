@@ -13,7 +13,7 @@
     "react": "^17.0.1",
     "react-confirm-alert": "^2.7.0",
     "react-dom": "^17.0.1",
-    "react-hook-form": "^6.15.4",
+    "react-hook-form": "^6.15.5",
     "react-icons": "^4.2.0",
     "react-lottie": "^1.2.3",
     "react-router-dom": "^5.2.0",
@@ -49,6 +49,7 @@
     ]
   },
   "devDependencies": {
+    "@types/react-dom": "^17.0.2",
     "@types/react-router-dom": "^5.1.7"
   }
 }
