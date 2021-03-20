@@ -10,7 +10,7 @@ class NoticiaData{
     }
     store(data: INoticia) {
         return api.post<INoticia>(`noticia`, data);
-      }
+    }
     index() {
         return api.get<INoticia[]>('noticia');
     }
